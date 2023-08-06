@@ -1,6 +1,6 @@
 #MindRL Hub (强化学习讨论分享社群）
 
-* 组委会成员(姓氏拼音顺序）： [Zeming Fang 方泽鸣(SJTU)](),Huaiyu Liu 刘怀瑜(UCL)](https://www.google.com), [Yanan Liu 刘亚男(McGill University)](http://ruyuanzhang.github.io/), [Hanbo Xie 谢涵博(University of Arizona)](https://scholar.google.com/citations?user=ae_5wyMAAAAJ&hl=en&oi=ao)
+* 组委会成员(姓氏拼音顺序）： [Zeming Fang 方泽鸣(SJTU)](),[Huaiyu Liu 刘怀瑜(UCL)](https://www.google.com), [Yanan Liu 刘亚男(McGill University)](http://ruyuanzhang.github.io/), [Hanbo Xie 谢涵博(University of Arizona)](https://scholar.google.com/citations?user=ae_5wyMAAAAJ&hl=en&oi=ao)
 
 * 微信群：RL专题分享讨论群
 
@@ -16,6 +16,5 @@
 
 ## MindRL Hub报告列表
 
-| 期号 | 报告题目                                                        |       类型          |                 报告人                   | 日期           | 相关材料                                                     | 主持人 |                          
 | :--: | :----------------------------------------------------------- | :----------------------------------------: | -------------- | ------------------------------------------------------------ | ------ |
 |  1   | Pavlovian conditioning–induced hallucinations result from overweighting of perceptual priors. Science, 357(6351), 596–600. https://doi.org/10.1126/science.aan3458 |                   耿海洋                   | 2020年12月24日 |                                                              |        |
