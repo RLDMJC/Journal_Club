@@ -1,6 +1,6 @@
 # MindRL Hub (强化学习讨论分享社群）
 
-* 组委会成员(姓氏拼音顺序）： [Zeming Fang 方泽鸣(SJTU)](),[Huaiyu Liu 刘怀瑜(UCL)]([https://www.google.com](https://iris.ucl.ac.uk/iris/browse/profile?upi=YLIUW71)), [Yanan Liu 刘亚男(McGill University)](http://ruyuanzhang.github.io/), [Hanbo Xie 谢涵博(University of Arizona)](https://github.com/xhb120633)
+* 组委会成员(姓氏拼音顺序）： [Zeming Fang 方泽鸣(SJTU)](),[Huaiyu Liu 刘怀瑜(UCL)](https://iris.ucl.ac.uk/iris/browse/profile?upi=YLIUW71)), [Yanan Liu 刘亚男(McGill University)](http://ruyuanzhang.github.io/), [Hanbo Xie 谢涵博(University of Arizona)](https://github.com/xhb120633)
 
 * 微信群：RL专题分享讨论群
 
