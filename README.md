@@ -9,7 +9,7 @@
 
 * 主旨：我们联合创立本社群，希望能够为强化学习相关领域的各个层级的研究者提供交流、互助、合作的平台。我们希望和来自心理学、神经科学、人工智能以及其他相关专业如管理学、数学、经济学等交叉领域的同行一起构建更丰富、更有包容性的平台。
 
-* 联系方式: 如果想加入社群、加入Committee或参加某次活动，欢迎联系组委会成员。微信：Psych509. [也可邮件联系](mailto:hanboxie1997@arizona.edu)
+* 联系方式: 如果想加入社群、加入Committee或参加某次活动，欢迎联系组委会成员。微信：Psych509. [也可邮件联系。](mailto:hanboxie1997@arizona.edu)
 
 ![MindRL Hub](https://github.com/RLDMJC/Journal_Club/blob/main/RL_pic.jpg)
 
