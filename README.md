@@ -18,7 +18,8 @@
 
 | 期号     | 题目                                |报告人            | 类型     | 时间      |回放      |
 |----------|-------------------------------------|------------------|----------|------------|----------|
-| 1        | Row1Col2                            | Row1Col3         |          |            |          |
+| 1        | Neural network modeling reveals diverse human exploration behaviors via state
+space analysis                        | Row1Col3         |          |            |          |
 | 1        | Row1Col2                            | Row1Col3         |          |            |          |
 | 1        | Row1Col2                            | Row1Col3         |          |            |          |
 
