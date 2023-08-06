@@ -20,7 +20,7 @@
 
 | 期号     | 题目                                                                                                                |报告人            | 类型     | 时间      |回放      |
 |----------|---------------------------------------------------------------------------------------------------------------------|------------------|----------|------------|----------|
-| 1        | Neural network modeling reveals diverse human exploration behaviors via state space analysis                        | [Huadong Xiong 熊华东 (University of Arizona )](https://sakimarquis.github.io/)  |    原创研究      |     2023/08/05 14：00 (北京时间)      |          |
+| 1        | Neural network modeling reveals diverse human exploration behaviors via state space analysis                        | [Huadong Xiong 熊华东 (University of Arizona )](https://sakimarquis.github.io/)  |    原创研究      |     2023/08/09 14：00 (北京时间)      |          |
 |         |                            |        |          |            |          |
 |         |                            |        |          |            |          |
 
