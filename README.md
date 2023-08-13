@@ -30,7 +30,7 @@
 
 | 题目                                                                                                                |报告人            | 类型     | 时间      |
 |---------------------------------------------------------------------------------------------------------------------|------------------|----------|------------|
-| 分层贝叶斯强化学习模型的实操示例                                                                                     | Shen Xu 徐深(Peking University) |    Tutorial Talk (教程实例） |     2023/08/26 21：00 (北京时间)      |
+| 分层贝叶斯强化学习模型的实操示例                                                                                     | Shen Xu 徐深(Peking University) |    Tutorial Talk 教程实例 |     2023/08/26 21：00 (北京时间)      |
 | TBD                                                                                                                  | [Mark Ho(Stevens Institute)](https://codec-lab.github.io/)  |    原创研究      |     2023/10/04 21：00 (北京时间)      |
 | TBD                                                           |     [Stefano Palminteri(INSERM)](https://sites.google.com/site/stefanopalminteri/home)   | 原创研究   | 2023/09/15 TBD|
 
