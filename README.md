@@ -1,6 +1,6 @@
 # MindRL Hub (强化学习讨论分享社群）
 
-* Committee members (alphabetical order)|组委会成员(姓氏拼音顺序）： 
+* 组委会成员(姓氏拼音顺序) | Committee members (alphabetical order)： 
 [Zeming Fang 方泽鸣(SJTU)](https://github.com/fangzefunny), [Huaiyu Liu 刘怀瑜(UCL)](https://iris.ucl.ac.uk/iris/browse/profile?upi=YLIUW71), 
  [Yanan Liu 刘亚男(McGill University)](https://github.com/lynn0503),  [Hanbo Xie 谢涵博(University of Arizona)](https://github.com/xhb120633)
 
