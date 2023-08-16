@@ -33,7 +33,7 @@
 
 ## MindRL Hub报告列表 (View Past Talks)
 
-| 期号(Issue) | 题目 (Title)                                                                                                               |报告人 (Speaker)         | 类型 (Category)     | 时间 (Date; Beijing Time)      |回放 (Videos)      | 语言 (Language)
+| 期号(Issue) | 题目 (Title)                                                                                                               |报告人 (Speaker)         | 类型 (Category)     | 时间 (Date; Beijing Time)      |回放 (Videos)      
 |----------|---------------------------------------------------------------------------------------------------------------------|------------------|----------|------------|----------|
 | 1        | Neural network modeling reveals diverse human exploration behaviors via state space analysis                        | [Huadong Xiong 熊华东 (University of Arizona )](https://sakimarquis.github.io/)  |    Research Recap 原创研究      |     2023/08/09 14：00 (北京时间)      |   [回放](https://www.bilibili.com/video/BV1au4y1R7kh/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5)       |
 |         |                            |        |          |            |          |
@@ -43,7 +43,7 @@
 
 ## Upcoming Events
 
-| 题目 (Title)                                                                                                                |报告人 (Speaker)            | 类型 (Category)     | 时间 (Date; Beijing Time)      | 语言 （Language）
+| 题目 (Title)                                                                                                                |报告人 (Speaker)            | 类型 (Category)     | 时间 (Date; Beijing Time)      
 |---------------------------------------------------------------------------------------------------------------------|------------------|----------|------------|
 | 分层贝叶斯强化学习模型的实操示例                                                                                     | Shen Xu 徐深(Peking University) |    Tutorial Talk 教程实例 |     2023/08/26 21：00 (北京时间)      |
 | TBD                                                                                                                  | [Mark Ho(Stevens Institute)](https://codec-lab.github.io/)  |    原创研究      |     2023/10/04 21：00 (北京时间)      |
