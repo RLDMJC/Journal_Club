@@ -4,8 +4,7 @@
   | Committee members (alphabetical order)： 
 [Zeming Fang 方泽鸣(SJTU)](https://github.com/fangzefunny), 
 [Huaiyu Liu 刘怀瑜(UCL)](https://iris.ucl.ac.uk/iris/browse/profile?upi=YLIUW71), 
-[Yanan Liu 刘亚男(McGill University)](https://github.com/lynn0503),  
-[Hanbo Xie 谢涵博(University of Arizona)](https://github.com/xhb120633)
+[Yanan Liu 刘亚男(McGill University)](https://github.com/lynn0503),  [Hanbo Xie 谢涵博(University of Arizona)](https://github.com/xhb120633)
 
 * 微信群：RL专题分享讨论群 
   | WeChat Group: RL专题分享讨论群
