@@ -22,7 +22,7 @@
 
 | 期号     | 题目                                                                                                                |报告人            | 类型     | 时间      |回放      |
 |----------|---------------------------------------------------------------------------------------------------------------------|------------------|----------|------------|----------|
-| 1        | Neural network modeling reveals diverse human exploration behaviors via state space analysis                        | [Huadong Xiong 熊华东 (University of Arizona )](https://sakimarquis.github.io/)  |    Research Recap 原创研究      |     2023/08/09 14：00 (北京时间)      |   [回放](https://www.bilibili.com/video/BV1au4y1R7kh/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5)       |
+| 1        | Neural network modeling reveals diverse human exploration behaviors via state space analysis                        | [Huadong Xiong 熊华东 (University of Arizona )](https://sakimarquis.github.io/)  |    Research Recap 原创研究      |     2023/08/09 14：00  (GMT+8)      |   [回放](https://www.bilibili.com/video/BV1au4y1R7kh/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5)       |
 |         |                            |        |          |            |          |
 |         |                            |        |          |            |          |
 
@@ -32,7 +32,8 @@
 
 | 题目                                                                                                                |报告人            | 类型     | 时间      |
 |---------------------------------------------------------------------------------------------------------------------|------------------|----------|------------|
-| 分层贝叶斯强化学习模型的实操示例                                                                                     | Shen Xu 徐深(Peking University) |    Tutorial Talk 教程实例 |     2023/08/26 21：00 (北京时间)      |
-| TBD                                                                                                                  | [Mark Ho(Stevens Institute)](https://codec-lab.github.io/)  |    原创研究      |     2023/10/04 21：00 (北京时间)      |
+| 分层贝叶斯强化学习模型的实操示例                                                                                     | Shen Xu 徐深(Peking University) |    Tutorial Talk 教程实例 |     2023/08/26 21：00  (GMT+8)      |
+| TBD                                                                                                                  | [Mark Ho(Stevens Institute)](https://codec-lab.github.io/)  |    原创研究      |     2023/10/04 21：00  (GMT+8)      |
 | TBD                                                           |     [Stefano Palminteri(INSERM)](https://sites.google.com/site/stefanopalminteri/home)   | 原创研究   | 2023/09/15 TBD|
+| TBD                                                           |     [Seongmin Park(UC Davis)](https://argmaxv.github.io/)   | 原创研究   | 2023/10/20 14:00 (GMT+8)|
 
