@@ -38,4 +38,6 @@
 | TBD                                                                                                                 | [Mark Ho (Stevens Institute)](https://codec-lab.github.io/)  |    Research Recap 原创研究        |     2023/10/04 21：00  (GMT+8)      |
 | TBD                                                           |     [Matt Nassar (Brown University)](https://sites.brown.edu/mattlab/)   | Research Recap 原创研究     | 2023/10/12 21:00 (GMT+8)|
 | TBD                                                           |     [Seongmin Park (UC Davis)](https://argmaxv.github.io/)   | Research Recap 原创研究     | 2023/10/20 14:00 (GMT+8)|
+| TBD                                                           |     黄泰诚 (Tsinghua University)   | Journal Jam 文献分享     | 2023/10/23 TBD (GMT+8)|
+| TBD                                                           |     [Charley Wu (University of Tübingen)](https://charleywu.github.io/)   | Research Recap 原创研究     | 2023/11/08 16:00 (GMT+8)|
 
