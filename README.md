@@ -45,5 +45,5 @@
 | TBD                                                             | [Seongmin Park (UC Davis)](https://argmaxv.github.io/)                              | Research Recap 原创研究 | 2023/10/20 14:00 (GMT+8)  | English with Chinese sub |
 | TBD                                                             | 黄泰诚 (Tsinghua University)                                                        | Journal Jam 文献分享    | 2023/10/23 TBD (GMT+8)    | Chinese with Eng sub
 | TBD                                                             | [Charley Wu (University of Tübingen)](https://charleywu.github.io/)                 | Research Recap 原创研究 | 2023/11/08 16:00 (GMT+8)  | English with Chinese sub
-| RLDDM                                                           | [Miqing Guo 郭鸣谦 (Radboud University)](https://www.ru.nl/en/people/guo-m)                |utorial Talk 教程实例 | 2023/11/18 21：00 (GMT+8)  | Chinese with English sub
+| RLDDM                                                           | [Miqing Guo 郭鸣谦 (Radboud University)](https://www.ru.nl/en/people/guo-m)                |Tutorial Talk 教程实例 | 2023/11/18 21：00 (GMT+8)  | Chinese with English sub
 
