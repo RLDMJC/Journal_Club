@@ -37,7 +37,7 @@
 
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- |
-| TBD                                                             | [Stefano Palminteri (INSERM)](https://sites.google.com/site/stefanopalminteri/home) | Research Recap 原创研究 | 2023/09/15 | English |             
+| TBD                                                             | [Stefano Palminteri (INSERM)](https://sites.google.com/site/stefanopalminteri/home) | Research Recap 原创研究 | 2023/09/15 17:00(GMT+8) | English |             
 | TBD                                                             | [Mark Ho (Stevens Institute)](https://codec-lab.github.io/)                         | Research Recap 原创研究 | 2023/10/04 21：00 (GMT+8) | English|
 | TBD                                                             | [Matt Nassar (Brown University)](https://sites.brown.edu/mattlab/)                  | Research Recap 原创研究 | 2023/10/12 21:00 (GMT+8)  | English|
 | TBD                                                             | [Seongmin Park (UC Davis)](https://argmaxv.github.io/)                              | Research Recap 原创研究 | 2023/10/20 14:00 (GMT+8)  | English |
