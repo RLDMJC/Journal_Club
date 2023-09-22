@@ -33,8 +33,8 @@
 | 2    | 分层贝叶斯强化学习模型的实操示例<br> (Crash tutorials on fitting hierarchical Bayesian reinforcement learning models) | Shen Xu 徐深(Peking University)  | Tutorial Talk 教程实例 | 2023/08/26 21：00 (GMT+8) | [回放](https://www.bilibili.com/video/BV1qm4y1u7JU/?spm_id_from=333.999.0.0&vd_source=1a260a61416c0a766c7c16e727b2f404)| Chinese | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a&pvs=4)
 | 3    | 工作记忆指导了基于模型的决策中的动作估值<br> (Working memory guides action valuation in model-based inference) | Zhaoyu Zuo 左肇煜 (University of Science and Technology of China)   | Research Recap 原创研究  | 2023/09/09 21:00 (GMT+8) | [回放](https://www.bilibili.com/video/BV1Sj411C77e/?vd_source=e9626f9767e6e22ece9d765f34ba01c5)| Chinese | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a&pvs=4)
 | 4| Reinforcement learning biases that makes us smart | [Stefano Palminteri (INSERM)](https://sites.google.com/site/stefanopalminteri/home) | Research Recap #3 |2023/09/15 17:00(GMT+8) | [回放](https://www.bilibili.com/video/BV1sh4y1A7eu/) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a&pvs=4)
-
 | 5| Trait somatic anxiety is associated with reduced directed exploration and underestimation of uncertainty | [Haoxue Fan (Harvard University)](https://haoxue-fan.github.io/) | Research Recap #4 |2023/09/22 21:30(GMT+8) | [回放](https://www.bilibili.com/video/BV1Rh4y1a7iq/?vd_source=e9626f9767e6e22ece9d765f34ba01c5) | Chinese | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
+
                   
 ## MindRL Hub Upcoming Talks
 
