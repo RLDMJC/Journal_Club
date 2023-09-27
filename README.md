@@ -41,7 +41,8 @@
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ |                                                           
 | Construction of mental representations in human planning| [Mark Ho (Stevens Institute)](https://codec-lab.github.io/)                         | Research Recap 原创研究 | 2023/10/04 21：00 (GMT+8) | English|
-| TBD                                                             | [Matt Nassar (Brown University)](https://sites.brown.edu/mattlab/)                  | Research Recap 原创研究 | 2023/10/12 21:00 (GMT+8)  | English|
+| TBD                                                             | [Matt Nassar (Brown University)](https://sites.brown.edu/mattlab/)                  | Research Recap 原创研究 | 2023/10/12 21:00 (GMT+8)  | English|[Password:320620](https://arizona.zoom.us/j/89422087892)
+
 | TBD                                                             | [Seongmin Park (UC Davis)](https://argmaxv.github.io/)                              | Research Recap 原创研究 | 2023/10/20 14:00 (GMT+8)  | English |
 | TBD                                                             | 黄泰诚 (Tsinghua University)                                                        | Journal Jam 文献分享    | 2023/10/23 TBD (GMT+8)    | Chinese
 | TBD                                                             | [Charley Wu (University of Tübingen)](https://charleywu.github.io/)                 | Research Recap 原创研究 | 2023/11/08 16:00 (GMT+8)  | English
