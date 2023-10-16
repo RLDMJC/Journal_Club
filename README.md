@@ -19,7 +19,7 @@
 - 主旨：我们联合创立本社群，希望能够为强化学习相关领域的各个层级的研究者提供交流、互助、合作的平台。我们希望和来自心理学、神经科学、人工智能以及其他相关专业如管理学、数学、经济学等交叉领域的同行一起构建更丰富、更有包容性的平台。<br>
   || Goal(s): We co-founded this MindRL Hub Community. This community dedicates to connecting Reinforcement Learning (RL) scholars to exchange their latest research, tools, hands-on tutorials (e.g., Stan, R, MATLAB, Python), etc. In addition, we also hope to foster discussion and collaboration between those involved in RL (e.g., Psychology, Cognitive Neuroscience, AI, Economics, etc.).
 
-- 联系方式: 如果想加入社群、加入 Committee 或参加某次活动，欢迎联系组委会成员。微信：Psych509. [也可邮件联系。](mailto:rldmjc2023@gmail.com) <br> 
+- 联系方式: 如果想加入社群、加入 Committee 或参加某次活动，欢迎联系组委会成员。微信：Psych509. [也可邮件联系。](mailto:rldmjc2023@gmail.com) <br>
 || Contact us: If you wish to join our community, or become a part of the committee, or participant in a specific web-based meeting; please feel free to contact our committee members via either the WeChat (Psych509 or UchihaTed) or e-mail (rldmjc2023@gmail.com), thanks.
 
 ![MindRL Hub](https://github.com/RLDMJC/Journal_Club/blob/main/RL_pic.jpg)
@@ -28,7 +28,7 @@
 ## MindRL Hub Past Talks
 
 | 期号<br> (Issue) | 题目<br>(Title)                                                                                       | 报告人<br> (Speaker)                                                                          | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 回放<br> (Past talk videos)                                                                                                                    | 语言<br> (Language) | 参考文献<br> (References)
-| ------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | 
+| ------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------- | --------- |
 | 1    | Neural network modeling reveals diverse human exploration behaviors via state space analysis | [Huadong Xiong 熊华东 (University of Arizona )](https://sakimarquis.github.io/) | Research Recap 原创研究 | 2023/08/09 14：00 (GMT+8) | [回放](https://www.bilibili.com/video/BV1au4y1R7kh/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5) | Chinese
 | 2    | 分层贝叶斯强化学习模型的实操示例<br> (Crash tutorials on fitting hierarchical Bayesian reinforcement learning models) | Shen Xu 徐深(Peking University)  | Tutorial Talk 教程实例 | 2023/08/26 21：00 (GMT+8) | [回放](https://www.bilibili.com/video/BV1qm4y1u7JU/?spm_id_from=333.999.0.0&vd_source=1a260a61416c0a766c7c16e727b2f404)| Chinese | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a&pvs=4)
 | 3    | 工作记忆指导了基于模型的决策中的动作估值<br> (Working memory guides action valuation in model-based inference) | Zhaoyu Zuo 左肇煜 (University of Science and Technology of China)   | Research Recap 原创研究  | 2023/09/09 21:00 (GMT+8) | [回放](https://www.bilibili.com/video/BV1Sj411C77e/?vd_source=e9626f9767e6e22ece9d765f34ba01c5)| Chinese | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a&pvs=4)
@@ -37,12 +37,12 @@
 | 6|  Construction of mental representations in human planning |[Mark Ho (Stevens Institute)](https://codec-lab.github.io/) | Research Recap #5 |2023/10/04 21:00(GMT+8) | [回放](https://www.bilibili.com/video/BV1P94y1a7Kf/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5) | English | [Reference](https://www.nature.com/articles/s41586-022-04743-9)
 | 7|  Dynamic representations for behavioral flexibility |[Matt Nassar (Brown University)](https://sites.brown.edu/mattlab/)  | Research Recap #6 |2023/10/12 21:00(GMT+8) | [回放](https://www.bilibili.com/video/BV1G34y1g7Q6/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5) | English | [Reference](https://www.jneurosci.org/content/42/12/2524.abstract)
 
-                  
+
 ## MindRL Hub Upcoming Talks
 
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ |                                                           
-| Structural abstraction and behavioral flexibility               | [Seongmin Park (CNRS)](https://rldmlab.github.io/)                              | Research Recap 原创研究 | 2023/10/20 14:00 (GMT+8)  | English |
+| Structural abstraction and behavioral flexibility               | [Seongmin Park (CNRS)](https://rldmlab.github.io/)                              | Research Recap 原创研究 | 2023/10/20 14:00 (GMT+8)  | English |[Click here](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1) | [Click here](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1)|
 | TBD                                                             | 黄泰诚 (Tsinghua University)                                                        | Journal Jam 文献分享    | 2023/10/23 TBD (GMT+8)    | Chinese
 | TBD                                                             | [Charley Wu (University of Tübingen)](https://charleywu.github.io/)                 | Research Recap 原创研究 | 2023/11/08 16:00 (GMT+8)  | English
 | RLDDM                                                           | [Miqing Guo 郭鸣谦 (Radboud University)](https://www.ru.nl/en/people/guo-m)         |Tutorial Talk 教程实例   | 2023/11/18 21：00 (GMT+8)  | Chinese
