@@ -44,7 +44,7 @@
 
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link) | 参考文献<br> (Reference)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ | ------
-|Visual-spatial dynamics drive adaptive social learning in immersive environments| [Charley Wu (University of Tübingen)](https://charleywu.github.io/)                 | Research Recap 原创研究 | 2023/11/08 16:00 (GMT+8)  | English
+|Visual-spatial dynamics drive adaptive social learning in immersive environments| [Charley Wu (University of Tübingen)](https://charleywu.github.io/)                 | Research Recap 原创研究 | 2023/11/08 16:00 (GMT+8)  | English| | [Zoom Password: 360255](https://arizona.zoom.us/j/87553097537)|
 | RLDDM                                                           | [Miqing Guo 郭鸣谦 (Radboud University)](https://www.ru.nl/en/people/guo-m)         |Tutorial Talk 教程实例   | 2023/11/18 21：00 (GMT+8)  | Chinese
 |Explore-exploit                                                  | [Robert Wilson (University of Arizona)](https://u.arizona.edu/~bob/index.html)       |Research Recap 原创研究  | 2023/11/21 23:00 (GMT+8)  | English
 | TBD                                                             | [Weiji Ma 马伟基 (New York University)](http://www.cns.nyu.edu/malab/index.html)     |Research Recap 原创研究 | 2023/12/01 21：30 (GMT+8)  | English
