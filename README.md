@@ -19,8 +19,8 @@
 - 主旨：我们联合创立本社群，希望能够为强化学习相关领域的各个层级的研究者提供交流、互助、合作的平台。我们希望和来自心理学、神经科学、人工智能以及其他相关专业如管理学、数学、经济学等交叉领域的同行一起构建更丰富、更有包容性的平台。<br>
   || Goal(s): We co-founded this MindRL Hub Community. This community dedicates to connecting Reinforcement Learning (RL) scholars to exchange their latest research, tools, hands-on tutorials (e.g., Stan, R, MATLAB, Python), etc. In addition, we also hope to foster discussion and collaboration between those involved in RL (e.g., Psychology, Cognitive Neuroscience, AI, Economics, etc.).
 
-- 联系方式: 如果想加入社群、加入 Committee 或参加某次活动，欢迎联系组委会成员。微信：Psych509. [也可邮件联系。](mailto:rldmjc2023@gmail.com) <br>
-|| Contact us: If you wish to join our community, or become a part of the committee, or participant in a specific web-based meeting; please feel free to contact our committee members via either the WeChat (Psych509 or UchihaTed) or e-mail (rldmjc2023@gmail.com), thanks.
+- 联系方式: 如果想加入社群、加入 Committee 或参加某次活动，欢迎联系组委会成员。微信：Psych509. [也可申请加入我们社群的mailing list，申请的时候请注明理由](https://groups.google.com/g/mindrl-hub-community) <br>
+|| Contact us: If you wish to join our community, or become a part of the committee, or participant in a specific web-based meeting; please feel free to contact our committee members via the WeChat (Psych509 or UchihaTed) or the twitter (@Mind_RL_Hub). You can also join our mailing list (https://groups.google.com/g/mindrl-hub-community), please do specify the reason when applying to join our mailing list, thanks.
 
 ![MindRL Hub](https://github.com/RLDMJC/Journal_Club/blob/main/RL_pic.jpg)
 
