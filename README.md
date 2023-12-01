@@ -39,6 +39,7 @@
 | 8|  Structural abstraction and behavioral flexibility |[Seongmin A. Park (CNRS)](https://rldmlab.github.io/)  | Research Recap #7 |2023/10/20 14:00(GMT+8) | [回放](https://www.bilibili.com/video/BV1QN4y1C77n/?vd_source=e9626f9767e6e22ece9d765f34ba01c5) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
 | 9|  Beyond the hippocampus as a predictive map  | [Taicheng Huang- 黄泰诚- (Tsinghua  University)](https://brain.tsinghua.edu.cn/info/1055/1176.htm)  | Journal Jam #1 |2023/10/28 14:00(GMT+8) | [回放](https://www.bilibili.com/video/BV1Cy4y1w7Wx/) | Chinese | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
 | 10|  Visual-spatial dynamics drive adaptive social learning in immersive environments  | [Charley Wu (University of Tübingen)](https://charleywu.github.io/)  | Research Recap #8 |2023/11/08 17:00 (GMT+8)  | [回放](https://www.bilibili.com/video/BV1ZM411S7d7/) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
+| 11|  The cognitive science of complex planning  | [Weiji Ma (NYU)](https://www.cns.nyu.edu/malab/index.html)  | Research Recap #9 |2023/12/05 22:00 (GMT+8)  | [回放](https://www.bilibili.com/video/BV1ye411d7Ty/?spm_id_from=333.999.0.0) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
 
 
 ## MindRL Hub Upcoming Talks
