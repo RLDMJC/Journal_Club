@@ -48,5 +48,11 @@
 
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link) | 参考文献<br> (Reference)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ | -----
+| Learning about uncertainty: mechanisms and implications for mental health | [Toby Wise (KCL)](https://tobywise.com/about/) | RL Research Recap #12 | 2024/2/29 9pm; (GMT+8)<br> 1PM UK time;<br> 2PM Central European Time | English | [Click](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1&pvs=74) | [Click](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1&pvs=74) | [Click](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1&pvs=74)
+
+
+
+
+
 
 
