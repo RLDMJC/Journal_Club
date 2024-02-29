@@ -42,7 +42,7 @@
 | 11|  The cognitive science of complex planning  | [Weiji Ma (NYU)](https://www.cns.nyu.edu/malab/index.html)  | Research Recap #9 |2023/11/30 22:00 (GMT+8)  | [回放](https://www.bilibili.com/video/BV1ye411d7Ty/?spm_id_from=333.999.0.0) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
 | 12|  Information, randomization, and simulation in exploration and exploitation | [Robert C. Wilson (Bob) (University of Arizona)](https://psychology.arizona.edu/person/robert-wilson)  | Research Recap #10 |2023/12/05 22:00 (GMT+8)  | [回放](https://www.bilibili.com/video/BV1vg4y1f7ey/?spm_id_from=333.999.0.0&vd_source=e9626f9767e6e22ece9d765f34ba01c5) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
 | 13|  Clustering and generalization of abstract structures in reinforcement learning  | [Michael J Frank (Brown University)](http://ski.clps.brown.edu/)     | Research Recap #11 |2023/12/14 22:00 (GMT+8)  | [回放](https://www.bilibili.com/video/BV14i4y1e7Lc/) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
-
+| 14|  Learning about uncertainty: mechanisms and implications for mental health  | [Toby Wise (KCL)](https://tobywise.com/about/) | Research Recap #12 |2024/2/29 9pm; (GMT+8)<br> 1PM UK time;<br> 2PM Central European Time  | [回放](https://www.bilibili.com/video/BV12y421z7sj/?vd_source=e9626f9767e6e22ece9d765f34ba01c5) | English | [Reference](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1&pvs=74)
 
 ## MindRL Hub Upcoming Talks
 
