@@ -49,6 +49,8 @@
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link) | 参考文献<br> (Reference)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ | -----
 | Deconstructing human reinforcement learning  | [Anne Collins (UC Berkely)](https://www.ocf.berkeley.edu/~acollins/) | Research Recap #13 |2024/3/29 4pm; (GMT+8)<br> 8AM UK time;<br> 9AM Central European Time  |English | |Zoom 878 4343 1423(password:277024)|
+|TBD  | [Arkady Konovalov (University of Birmingham)](https://sites.google.com/site/arkadykonovalov/) | Research Recap #14 |2024/4/5 7pm; (GMT+8)<br> 11AM UK time;<br> 12AM Central European Time  |English | |TBD|
+| TBD | [Christopher Summerfield (University of Oxford)](https://humaninformationprocessing.com/) | Research Recap #15 |2024/6/28 5pm; (GMT+8)<br> 9AM UK time;<br> 10AM Central European Time  |English | |TBD|
 
 
 
