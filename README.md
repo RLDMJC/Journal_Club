@@ -48,7 +48,7 @@
 
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link) | 参考文献<br> (Reference)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ | -----
-| 15|  Deconstructing human reinforcement learning  | [Anne Collins (UC Berkely)](https://www.ocf.berkeley.edu/~acollins/) | Research Recap #13 |2024/3/29 4pm; (GMT+8)<br> 8AM UK time;<br> 9AM Central European Time  |English | |Zoom 878 4343 1423(password:277024)|
+| Deconstructing human reinforcement learning  | [Anne Collins (UC Berkely)](https://www.ocf.berkeley.edu/~acollins/) | Research Recap #13 |2024/3/29 4pm; (GMT+8)<br> 8AM UK time;<br> 9AM Central European Time  |English | |Zoom 878 4343 1423(password:277024)|
 
 
 
