@@ -45,12 +45,13 @@
 | 14|  Learning about uncertainty: mechanisms and implications for mental health  | [Toby Wise (KCL)](https://tobywise.com/about/) | Research Recap #12 |2024/2/29 9pm; (GMT+8)<br> 1PM UK time;<br> 2PM Central European Time  | [回放](https://www.bilibili.com/video/BV12y421z7sj/?vd_source=e9626f9767e6e22ece9d765f34ba01c5) | English | [Reference](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1&pvs=74)
 | 15|  Deconstructing human reinforcement learning  | [Anne Collins (UC Berkely)](https://www.ocf.berkeley.edu/~acollins/)  | Research Recap #13 |2024/3/29 4pm; (GMT+8)<br> 8AM UK time;<br> 9AM Central European Time | In process | English | In process
 | 16|  Strategic Computations and Learning in the Social Brain | [Arkady Konovalov (University of Birmingham)](https://sites.google.com/site/arkadykonovalov/)  | Research Recap #14 | 2024/4/5 7pm; (GMT+8)<br> 11AM UK time;<br> 12AM Central European Time | In process | English | In process
+| 17|  On the relationship between semantic representations and decision-making  | [Marc-Lluis Vives (Leiden University)](https://communities.springernature.com/users/marc-lluis-vives) | Research Recap #15 |2024/6/14 9pm; (GMT+8)<br> 2pm UK time;<br> 3pm Central European Time   | [回放](https://www.bilibili.com/video/BV1rs421T7xX/) | English | [Reference](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a)
 
 ## MindRL Hub Upcoming Talks
 
 | 题目<br> (Title)                                                            | 报告人<br> (Speaker)                                                                              | 类型<br> (Category)                    | 时间<br> (Date in Beijing Time)                      | 语言<br> (Language) | 摘要<br> (Abstract) | 会议<br> (Meeting link) | 参考文献<br> (Reference)
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ---------| ------- | ------ | -----
-| On the relationship between semantic representations and decision-making | [Marc-Lluis Vives (Leiden University)](https://communities.springernature.com/users/marc-lluis-vives) | Research Recap #15 |2024/6/14 9pm; (GMT+8)<br> 2pm UK time;<br> 3pm Central European Time  |English |[Abstract](https://ballistic-haumea-20f.notion.site/5bd700cd0bee469cb7be086352dcbde9?v=c3f422c0a3ee45cba9833299bc99fc5a&pvs=4) |[Zoom](https://ballistic-haumea-20f.notion.site/0eebd36deea14c108536d3b8f96b57f1?v=e43a53e9ac5a4f03a2d255576f7f6ce1&pvs=4)|
+
 
 
 
